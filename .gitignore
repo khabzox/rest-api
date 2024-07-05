@@ -1,0 +1,20 @@
+# Dependency directories
+/node_modules/
+
+# TypeScript build output
+/dist/
+
+# Environment variables
+.env*local
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vercel
